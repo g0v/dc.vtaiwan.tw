@@ -1,14 +1,8 @@
-# 關於 vTaiwan
+# 關於 DC.vTaiwan.tw
 
-這是**行政院**[虛擬世界發展法規調適規劃方案](http://www.ey.gov.tw/News_Content.aspx?n=3D06E532B0D8316C&s=A1747AEA93F0BF62)的線上法規討論平台，由**資策會**[科技法律研究所](https://stli.iii.org.tw/)與 **g0v** [vTaiwan.tw 專案參與者](https://g0v.hackpad.com/vTaiwan.tw--oWRxOF4ilfx)共同建置。
+這是**行政院**[匯流五法](http://www.slideshare.net/vtaiwan/ss-58638883/19)的線上討論平台，由**資策會**[科技法律研究所](https://stli.iii.org.tw/)與 **g0v** [vTaiwan.tw 專案參與者](https://g0v.hackpad.com/vTaiwan.tw--oWRxOF4ilfx)共同建置。
 
 ## 為何參加？
-
-法規討論，就是影響我們生活方式的公民參與。
-
-當政府與人民對政策或法律出現意見落差，而在公聽會和街頭運動之外，又缺乏有效溝通的管道時，社會氣氛便趨向緊繃與不信任。
-
-但我們必須意識到，每個人都有參與法規制定的權利——且行政機關有責任關注！
 
 依照[行政程序法第 154 條](http://law.moj.gov.tw/LawClass/LawSingle.aspx?Pcode=A0030055&FLNO=154)，行政機關擬訂法規命令時，必須公告載明這些事項：
 
