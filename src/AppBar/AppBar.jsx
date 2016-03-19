@@ -4,11 +4,12 @@ import Transmit from 'react-transmit'
 import {Link} from 'react-router'
 import './AppBar.css'
 
+const imgURL = require("./images/AppBar-logo.png");
+const siteName = '匯流五法：線上諮詢';
+
 class AppBar extends React.Component {
 
     render() {
-
-        var imgURL = require("./images/AppBar-logo.png");
         var toggleIcon = window.innerWidth > 600 ? (
                 <span className="fa-stack">
                     <i className="fa fa-bars fa-stack-1x" />
@@ -26,7 +27,7 @@ class AppBar extends React.Component {
                     <div className="AppBar-siteLogo">
                         <img className="AppBar-siteLogoImg"
                              src={imgURL}/>
-                        <div className="AppBar-siteLogoText">匯流五法：線上諮詢</div>
+                        <div className="AppBar-siteLogoText">{siteName}</div>
                     </div>
                 </Link>
             </div>
