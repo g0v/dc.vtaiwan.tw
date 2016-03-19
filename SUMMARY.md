@@ -1,4 +1,4 @@
-# 匯流五法：線上諮詢
+# 匯流五法：線上徵詢
 
 * 議題
     - [電子通訊傳播](topics/DC-telecommunication.md)
