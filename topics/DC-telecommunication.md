@@ -1,8 +1,8 @@
-# 電子通訊傳播法
+# 電子通訊傳播
 
 * [圖示](DC-telecommunication.png)
 * [簡報](https://www.slideshare.net/vtaiwan/15-58638979)
-* 徵詢 2016-03-19/2016-04-05
+* 徵詢 2016-03-18/2016-04-05
     * [資料](https://g0v.github.io/DC-telecommunication-gitbook)
     * [論壇](https://talk.vtaiwan.tw/c/DC-telecommunication)
     * [郵箱](mailto:replies+telecommunication@vtaiwan.tw)
