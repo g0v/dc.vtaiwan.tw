@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "build": "npm run static",
-    "update": "./node_modules/.bin/babel-node script/update-proposal-slides.js; ./node_modules/.bin/babel-node script/update-category-ids.js",
+    "update": "./node_modules/.bin/lsc script/parse-summary.ls; ./node_modules/.bin/babel-node script/update-proposal-slides.js; ./node_modules/.bin/babel-node script/update-category-ids.js",
     "static": "rm -rf build/* ; env NODE_ENV=production webpack -content-base build/ ; ./node_modules/.bin/babel-node script/gen-static.js /; cp -Rf static/* build/",
     "deploy": "gh-pages -d build"
   },
@@ -34,6 +34,7 @@
     "gitbook-markdown": "^1.2.0",
     "hackpad": "0.0.3",
     "html-loader": "^0.3.0",
+    "livescript": "^1.4.0",
     "postcss-loader": "^0.6.0",
     "react-hot-loader": "^1.2.2",
     "static-site-generator-webpack-plugin": "^1.0.0",

@@ -12,6 +12,12 @@
 
 (Node.js 0.10.x+ 也可用來開發，但部署時仍建議使用 4.x。)
 
+# 設定
+
+按 GitBook Markdown 格式編輯 SUMMARY.md 即可設定議題。
+
+每次更新後，執行 `npm run update` 來產生 JSON 格式的設定檔。
+
 # 部署
 
 本系統使用 [zombie.js](http://zombie.js.org/) 搭配 [reactjs](https://facebook.github.io/react/) 的 server-side render 產生靜態網頁，並且使用 [gh-pages](https://pages.github.com/) 作為部署環境。請按照下列步驟執行指令。
