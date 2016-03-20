@@ -31,7 +31,7 @@
     "extract-text-webpack-plugin": "^0.8.1",
     "file-loader": "^0.8.1",
     "gh-pages": "^0.11.0",
-    "gitbook-parsers": "^0.8.9",
+    "gitbook-markdown": "^1.2.0",
     "hackpad": "0.0.3",
     "html-loader": "^0.3.0",
     "postcss-loader": "^0.6.0",
