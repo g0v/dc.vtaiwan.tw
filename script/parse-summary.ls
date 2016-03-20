@@ -9,9 +9,17 @@ function type-of (txt)
   return \url if txt is /^https?:/
   console.log "==> Unknown type: #txt"
 
-CONTENT = fs.readFileSync(path.join(__dirname, '../SUMMARY.md'), 'utf8')
-readme = gitbook-markdown.readme
-console.log readme CONTENT
-summary = gitbook-markdown.summary
-console.log JSON.stringify summary(CONTENT),,2
+# pathless title denotes stage
+const cwd = path.join(__dirname, '..')
+const src = fs.readFileSync("#cwd/SUMMARY.md", 'utf8')
 
+out = gitbook-markdown.readme src
+{parts: [idx]} = gitbook-markdown.summary src
+for {title, path, articles} in idx.articles | path
+  typ = type-of path
+  console.log "#title #typ - #path"
+
+for {title, path, articles} in idx.articles | not path
+  console.log title
+  for {title, path} in articles | path
+    console.log "> #title - #path"
