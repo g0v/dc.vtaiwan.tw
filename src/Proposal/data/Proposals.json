@@ -1,752 +1,207 @@
 {
-  "eliquor": {
-    "title_cht": "網路賣酒配套措施",
-    "title_eng": "eliquor",
-    "proposer_abbr_cht": "財政部國庫署",
-    "proposer_abbr_eng": "nta",
-    "slides_url": "https://www.slideshare.net/vtaiwan/ss-59160815",
-    "stages": [
-      {
-        "name": "意見徵集",
-        "category": "collect",
-        "start_date": "March 7, 2016 00:00:00",
-        "end_date": "March 30, 2016 23:59:59",
-        "polis_id": "6nbf3mwttd"
-      }
-    ],
-    "slides_image": "//image.slidesharecdn.com/1050304-pdfa-160306184026/95/-1-1024.jpg",
-    "slides_embed_url": "//www.slideshare.net/slideshow/embed_code/key/XEuM2tLmHDCPe"
-  },
-  "airbnb": {
-    "title_cht": "Airbnb 自用住宅招租",
-    "title_eng": "airbnb",
-    "proposer_abbr_cht": "交通部觀光局",
-    "proposer_abbr_eng": "motc_tb",
-    "fact_url": "http://fact.g0v.tw/wikipedia/airbnb",
-    "slides_url": "http://www.slideshare.net/vtaiwan/airbnb-vtaiwantw-iii",
+  "DC-telecommunication": {
+    "title_eng": "DC-telecommunication",
+    "title_cht": "電子通訊傳播",
+    "prefix_cht": "",
+    "prefix_eng": "",
+    "proposer_abbr_cht": "",
+    "proposer_abbr_eng": "",
     "links": [
       {
-        "title": "諮詢會議：Airbnb 自用住宅招租",
-        "date": "October 1, 2015 19:00:00",
+        "title": "諮詢會議",
+        "date": "Wed, 06 Apr 2016 18:52:00 GMT",
         "links": [
-          {
-            "title": "共筆",
-            "link": "https://g0v.hackpad.com/vTaiwan-Airbnb--Jqv5FwD48vn"
-          },
-          {
-            "title": "重播",
-            "link": "https://www.youtube.com/watch?v=l8zOi1Wv1Jk"
-          },
-          {
-            "title": "紀錄",
-            "link": "http://sayit.archive.tw/2015-10-01-airbnb-自用住宅招租意見徵集諮詢會議"
-          }
-        ]
-      }
-    ],
-    "stages": [
-      {
-        "name": "意見徵集",
-        "category": "collect",
-        "start_date": "September 1, 2015 00:00:00",
-        "end_date": "September 27, 2015 23:59:59",
-        "polis_id": "6sc6vt"
-      }
-    ],
-    "slides_image": "//image.slidesharecdn.com/vtaiwan-airbnb-151001071911-lva1-app6892/95/-1-1024.jpg",
-    "slides_embed_url": "//www.slideshare.net/slideshow/embed_code/key/qjhkdmfSu9mm3g"
-  },
-  "uberx": {
-    "title_cht": "UberX 自用車載客",
-    "title_eng": "uberx",
-    "proposer_abbr_cht": "交通部",
-    "proposer_abbr_eng": "motc",
-    "slides_url": "http://www.slideshare.net/vtaiwan/uberx-vtaiwantw-iii",
-    "fact_url": "http://fact.g0v.tw/wikipedia/uber",
-    "links": [
-      {
-        "title": "諮詢會議：uberX 自用車載客",
-        "date": "August 27, 2015 19:00:00",
-        "links": [
-          {
-            "title": "共筆",
-            "link": "https://hackpad.com/2015-08-27-uberX--isBiN9W1GF0"
-          },
-          {
-            "title": "重播",
-            "link": "https://www.youtube.com/watch?v=QxHkGq57pWw"
-          },
-          {
-            "title": "紀錄",
-            "link": "http://sayit.archive.tw/2015-08-27-uberx-%E8%87%AA%E7%94%A8%E8%BB%8A%E8%BC%89%E5%AE%A2%E6%84%8F%E8%A6%8B%E5%BE%B5%E9%9B%86%E8%AB%AE%E8%A9%A2%E6%9C%83%E8%AD%B0"
-          }
-        ]
-      }
-    ],
-    "stages": [
-      {
-        "name": "意見徵集",
-        "category": "collect",
-        "start_date": "July 15, 2015 00:00:00",
-        "end_date": "August 15, 2015 23:59:59",
-        "polis_id": "3phdex2kjf"
-      }
-    ],
-    "slides_image": "//image.slidesharecdn.com/vtaiwan-iii-2015-08-27-150827081332-lva1-app6891/95/-1-1024.jpg",
-    "slides_embed_url": "//www.slideshare.net/slideshow/embed_code/key/pbWRU3vlCYhyVc"
-  },
-  "cyberbullying": {
-    "title_cht": "網路霸凌",
-    "title_eng": "cyberbullying",
-    "prefix_cht": "數位公民環境：",
-    "prefix_eng": "civic",
-    "proposer_abbr_cht": "法務部、衛福部",
-    "proposer_abbr_eng": "MOJ-MOHW",
-    "slides_url": "http://www.slideshare.net/vtaiwan/cyberbullying-49304122",
-    "links": [
-      {
-        "title": "諮詢會議：網路霸凌",
-        "date": "August 14, 2015 19:00:00",
-        "links": [
-          {
-            "title": "共筆",
-            "link": "https://hackpad.com/2015-08-13--p8VAnQ24OqO"
-          },
-          {
-            "title": "重播",
-            "link": "https://www.youtube.com/watch?v=D5bwEja0-O0"
-          }
-        ]
-      }
-    ],
-    "stages": [
-      {
-        "name": "討論",
-        "gitbook_url": "https://g0v.github.io/cyberbullying-gitbook",
-        "discourse_url": "https://talk.vtaiwan.tw",
-        "category": "1",
-        "start_date": "June 16, 2015 00:00:00",
-        "end_date": "August 31, 2015 23:59:59",
-        "category_num": 92
-      }
-    ],
-    "slides_image": "//image.slidesharecdn.com/nrjvk4hrp2r6cv4mg7db-signature-045158dc41e3894e555259f1fbccc032e06e08510399385ed44413b3528cb98c-poli-150612082524-lva1-app6892/95/-1-1024.jpg",
-    "slides_embed_url": "//www.slideshare.net/slideshow/embed_code/key/bK7xMrO8x5cCoa"
-  },
-  "infosecurity": {
-    "title_cht": "資安管理",
-    "title_eng": "infosecurity",
-    "prefix_cht": "數位公民環境：",
-    "prefix_eng": "civic",
-    "proposer_abbr_cht": "資通安全辦公室",
-    "proposer_abbr_eng": "nnicst",
-    "slides_url": "http://www.slideshare.net/vtaiwan/16b2b137-394241f19e1057284354f976",
-    "stages": [
-      {
-        "name": "討論",
-        "gitbook_url": "https://g0v.github.io/infosecurity-gitbook",
-        "discourse_url": "https://talk.vtaiwan.tw",
-        "category": "init",
-        "start_date": "May 8, 2015 00:00:00",
-        "end_date": "June 30, 2015 23:59:59",
-        "category_num": 88
-      }
-    ],
-    "slides_image": "//image.slidesharecdn.com/atosoi9ttvagigmgyrqr-signature-f8f78ef82b163ff091ab727c6ffe4671893ebd067f6a2ae263ddea11f18b2c1d-poli-150607174048-lva1-app6892/95/-1-1024.jpg",
-    "slides_embed_url": "//www.slideshare.net/slideshow/embed_code/key/d6QtYX8uAsEsLT"
-  },
-  "crowdfunding": {
-    "title_cht": "群眾募資",
-    "title_eng": "crowdfunding",
-    "prefix_cht": "數位商務模式：",
-    "prefix_eng": "commerce",
-    "proposer_abbr_cht": "金管會證期局",
-    "proposer_abbr_eng": "sfb",
-    "slides_url": "http://www.slideshare.net/vtaiwan/ss-46213074",
-    "links": [
-      {
-        "title": "諮詢會議：群眾募資",
-        "date": "March 24, 2015 19:00:00",
-        "links": [
-          {
-            "title": "重播",
-            "link": "https://www.youtube.com/watch?v=MdNC9XAOhps"
-          },
-          {
-            "title": "PDF",
-            "link": "http://www.vtaiwan.org.tw/model.aspx?no=242"
-          }
-        ]
-      },
-      {
-        "title": "工作組聚會：「數位商務模式」建議規格彙整",
-        "date": "March 14, 2015 19:00:00",
-        "links": [
-          {
-            "title": "共筆",
-            "link": "https://g0v.hackpad.com/vTaiwan--zjiELIjtDUc"
-          }
-        ]
-      }
-    ],
-    "stages": [
-      {
-        "name": "定案",
-        "gitbook_url": "https://g0v.github.io/crowdfunding-ref1-gitbook",
-        "discourse_url": "https://talk.vtaiwan.tw",
-        "category": "act1",
-        "start_date": "March 20, 2015 00:00:00",
-        "end_date": "April 19, 2015 23:59:59",
-        "category_num": 59
-      },
-      {
-        "name": "建議",
-        "gitbook_url": "https://g0v.github.io/crowdfunding-spec-gitbook",
-        "discourse_url": "https://talk.vtaiwan.tw",
-        "category": "spec",
-        "start_date": "March 17, 2015 00:00:00",
-        "end_date": "April 17, 2015 23:59:59",
-        "category_num": 55
-      },
-      {
-        "name": "討論",
-        "gitbook_url": "https://g0v.github.io/crowdfunding-gitbook",
-        "discourse_url": "https://talk.vtaiwan.tw",
-        "category": "init",
-        "start_date": "February 1, 2015 00:00:00",
-        "end_date": "March 13, 2015 23:59:59",
-        "category_num": 6
-      }
-    ],
-    "slides_image": "//image.slidesharecdn.com/lvgkd0ngquy8efb2toeq-signature-af0b0d05725e4fb9358e5a094c77833ec00bc80bea24622c6e81b7da2ff12e49-poli-150324054020-conversion-gate01/95/-1-1024.jpg",
-    "slides_embed_url": "//www.slideshare.net/slideshow/embed_code/key/nnLTRbSBdcBaEB"
-  },
-  "closelyheld": {
-    "title_cht": "閉鎖型公司",
-    "title_eng": "closelyheld",
-    "prefix_cht": "數位商務模式：",
-    "prefix_eng": "commerce",
-    "proposer_abbr_cht": "經濟部商業司",
-    "proposer_abbr_eng": "DOCMOEA",
-    "slides_url": "http://www.slideshare.net/vtaiwan/ss-45719299",
-    "links": [
-      {
-        "title": "工作組聚會：「數位商務模式」建議規格彙整",
-        "date": "March 14, 2015 19:00:00",
-        "links": [
-          {
-            "title": "共筆",
-            "link": "https://g0v.hackpad.com/vTaiwan--zjiELIjtDUc"
-          }
-        ]
-      },
-      {
-        "title": "諮詢會議：閉鎖型公司及網路交易課稅",
-        "date": "March 12, 2015 19:00:00",
-        "links": [
-          {
-            "title": "重播",
-            "link": "https://www.youtube.com/watch?v=pK3X7AVgjjo"
-          },
-          {
-            "title": "PDF",
-            "link": "http://www.vtaiwan.org.tw/model.aspx?no=241"
-          }
-        ]
-      }
-    ],
-    "stages": [
-      {
-        "name": "定案",
-        "gitbook_url": "https://g0v.github.io/closelyheld-act1-gitbook",
-        "discourse_url": "https://talk.vtaiwan.tw",
-        "category": "act1",
-        "start_date": "May 1, 2015 00:00:00",
-        "end_date": "May 31, 2015 23:59:59",
-        "category_num": 72
-      },
-      {
-        "name": "草案 #1",
-        "proposer_abbr_eng": "vtaiwan",
-        "proposer_abbr_cht": "邵慶平",
-        "gitbook_url": "https://g0v.github.io/closelyheld-ref1-gitbook",
-        "discourse_url": "https://talk.vtaiwan.tw",
-        "category": "ref1",
-        "start_date": "May 1, 2015 00:00:00",
-        "end_date": "May 31, 2015 23:59:59",
-        "category_num": 36
-      },
-      {
-        "name": "建議",
-        "gitbook_url": "https://g0v.github.io/closelyheld-spec-gitbook",
-        "discourse_url": "https://talk.vtaiwan.tw",
-        "category": "spec",
-        "start_date": "March 17, 2015 00:00:00",
-        "end_date": "May 31, 2015 23:59:59",
-        "category_num": 53
-      },
-      {
-        "name": "討論",
-        "gitbook_url": "https://g0v.github.io/closelyheld-gitbook",
-        "discourse_url": "https://talk.vtaiwan.tw",
-        "category": "init",
-        "start_date": "February 1, 2015 00:00:00",
-        "end_date": "March 13, 2015 23:59:59",
-        "category_num": 5
-      }
-    ],
-    "slides_image": "//image.slidesharecdn.com/fzlieu54sqahte5zwest-signature-86d88a262fcdc97e1b77cf07f731fe115145d0b75deb4bc61942d9057a0250f9-poli-150311132959-conversion-gate01/95/-1-1024.jpg",
-    "slides_embed_url": "//www.slideshare.net/slideshow/embed_code/key/MZTkYzdl9iAQnG"
-  },
-  "etax": {
-    "title_cht": "網路交易課稅",
-    "title_eng": "etax",
-    "prefix_cht": "數位商務模式：",
-    "prefix_eng": "commerce",
-    "proposer_abbr_eng": "MOFTA",
-    "proposer_abbr_cht": "財政部賦稅署",
-    "slides_url": "http://www.slideshare.net/vtaiwan/ss-45719169",
-    "links": [
-      {
-        "title": "工作組聚會：「數位商務模式」建議規格彙整",
-        "date": "March 14, 2015 19:00:00",
-        "links": [
-          {
-            "title": "共筆",
-            "link": "https://g0v.hackpad.com/vTaiwan--zjiELIjtDUc"
-          }
-        ]
-      },
-      {
-        "title": "諮詢會議：閉鎖型公司及網路交易課稅",
-        "date": "March 12, 2015 19:00:00",
-        "links": [
-          {
-            "title": "重播",
-            "link": "https://www.youtube.com/watch?v=pK3X7AVgjjo"
-          },
-          {
-            "title": "PDF",
-            "link": "http://www.vtaiwan.org.tw/model.aspx?no=241"
-          }
-        ]
-      }
-    ],
-    "stages": [
-      {
-        "name": "建議",
-        "gitbook_url": "https://g0v.github.io/etax-spec-gitbook",
-        "discourse_url": "https://talk.vtaiwan.tw",
-        "category": "spec",
-        "start_date": "March 17, 2015 00:00:00",
-        "end_date": "June 30, 2015 23:59:59",
-        "category_num": 53
-      },
-      {
-        "name": "討論",
-        "gitbook_url": "https://g0v.github.io/etax-gitbook",
-        "discourse_url": "https://talk.vtaiwan.tw",
-        "category": "init",
-        "start_date": "February 1, 2015 00:00:00",
-        "end_date": "March 13, 2015 23:59:59",
-        "category_num": 14
-      }
-    ],
-    "slides_image": "//image.slidesharecdn.com/gxdzhttzsfsfdvksbehc-signature-86d88a262fcdc97e1b77cf07f731fe115145d0b75deb4bc61942d9057a0250f9-poli-150311132614-conversion-gate01/95/-1-1024.jpg",
-    "slides_embed_url": "//www.slideshare.net/slideshow/embed_code/key/sDlboXNS29cuAa"
-  },
-  "distant-education": {
-    "title_cht": "遠距教育",
-    "title_eng": "distant-education",
-    "prefix_cht": "數位生活：",
-    "prefix_eng": "lifestyle",
-    "proposer_abbr_eng": "MOE",
-    "proposer_abbr_cht": "教育部",
-    "slides_url": "http://www.slideshare.net/vtaiwan/ss-46845072",
-    "links": [
-      {
-        "title": "工作組聚會：「遠距教育及開放資料」建議規格彙整",
-        "date": "April 25, 2015 14:00:00",
-        "links": [
-          {
-            "title": "共筆",
-            "link": "https://g0v.hackpad.com/vTaiwan--zjiELIjtDUc"
-          },
-          {
-            "title": "重播",
-            "link": "https://livehouse.in/channel/vtaiwan/record/-Jnj9-4eG9dfh-D33RBK"
-          }
-        ]
-      },
-      {
-        "title": "諮詢會議：遠距教育及開放資料",
-        "date": "April 14, 2015 19:00:00",
-        "links": [
-          {
-            "title": "共筆",
-            "link": "https://hackpad.com/2015-04-14--JSea6WC3EdD"
-          },
-          {
-            "title": "重播",
-            "link": "https://www.youtube.com/watch?v=DPNPZcfaQgs"
-          },
-          {
-            "title": "PDF",
-            "link": "http://www.vtaiwan.org.tw/model.aspx?no=245"
-          }
-        ]
-      }
-    ],
-    "stages": [
-      {
-        "name": "建議",
-        "gitbook_url": "https://g0v.github.io/distant-education-spec-gitbook",
-        "discourse_url": "https://talk.vtaiwan.tw",
-        "category": "spec",
-        "start_date": "May 1, 2015 00:00:00",
-        "end_date": "June 30, 2015 23:59:59",
-        "category_num": 70
-      },
-      {
-        "name": "討論",
-        "gitbook_url": "https://g0v.github.io/distant-education-gitbook",
-        "discourse_url": "https://talk.vtaiwan.tw",
-        "category": "init",
-        "start_date": "March 1, 2015 00:00:00",
-        "end_date": "April 24, 2015 23:59:59",
-        "category_num": 17
-      }
-    ],
-    "slides_image": "//image.slidesharecdn.com/knjp3lgcqewgymysz4yt-signature-4cf61cce4b37cabc1b3258bbe2c24103459d37fb478e7592aa5ad8dd022ec827-poli-150410023938-conversion-gate01/95/-1-1024.jpg",
-    "slides_embed_url": "//www.slideshare.net/slideshow/embed_code/key/me61bWbV0kkc51"
-  },
-  "telework": {
-    "title_cht": "電傳勞動",
-    "title_eng": "telework",
-    "prefix_cht": "數位生活：",
-    "prefix_eng": "lifestyle",
-    "proposer_abbr_eng": "mol",
-    "proposer_abbr_cht": "勞動部",
-    "slides_url": "http://www.slideshare.net/vtaiwan/ss-47895897",
-    "slides_image": "//image.slidesharecdn.com/smgujq1zt3elebyhqm1a-signature-d9c5201d679f72edc0da5064304fb66ecc7efa5af534c7559c595ca070c62896-poli-150508045107-lva1-app6891/95/-1-1024.jpg",
-    "links": [
-      {
-        "title": "諮詢會議：電傳勞動及網路交易契約",
-        "date": "May 14, 2015 19:00:00",
-        "links": [
-          {
-            "title": "共筆",
-            "link": "https://hackpad.com/2015-05-14--WaejnuSdnkS"
-          },
-          {
-            "title": "重播",
-            "link": "https://www.youtube.com/watch?v=i7WEtXVjKbo"
-          },
-          {
-            "title": "PDF",
-            "link": "http://www.vtaiwan.org.tw/model.aspx?no=247"
-          }
-        ]
-      }
-    ],
-    "stages": [
-      {
-        "name": "討論",
-        "gitbook_url": "https://g0v.github.io/telework-gitbook",
-        "discourse_url": "https://talk.vtaiwan.tw",
-        "category": "init",
-        "start_date": "March 1, 2015 00:00:00",
-        "end_date": "June 30, 2015 23:59:59",
-        "category_num": 18
-      }
-    ],
-    "slides_embed_url": "//www.slideshare.net/slideshow/embed_code/key/1U6HEtWAlZPBni"
-  },
-  "telemedicine": {
-    "title_cht": "遠距健康照護",
-    "title_eng": "telemedicine",
-    "prefix_cht": "數位生活：",
-    "prefix_eng": "lifestyle",
-    "proposer_abbr_eng": "MOHW",
-    "proposer_abbr_cht": "衛福部",
-    "slides_url": "http://www.slideshare.net/vtaiwan/ss-47314038",
-    "links": [
-      {
-        "title": "諮詢會議：遠距醫療照護及個資利用",
-        "date": "April 24, 2015 19:00:00",
-        "links": [
-          {
-            "title": "共筆",
-            "link": "https://hackpad.com/2015-04-24--Ar7eHtSVSHb"
-          },
-          {
-            "title": "重播",
-            "link": "https://www.youtube.com/watch?v=Uhpi0UftNlQ"
-          },
-          {
-            "title": "PDF",
-            "link": "http://www.vtaiwan.org.tw/model.aspx?no=246"
-          }
-        ]
-      }
-    ],
-    "stages": [
-      {
-        "name": "討論",
-        "gitbook_url": "https://g0v.github.io/telemedicine-gitbook",
-        "discourse_url": "https://talk.vtaiwan.tw",
-        "category": "init",
-        "start_date": "March 1, 2015 00:00:00",
-        "end_date": "June 30, 2015 23:59:59",
-        "category_num": 19
-      }
-    ],
-    "slides_image": "//image.slidesharecdn.com/rdksmsbaqbojprpsp5ej-signature-882046dafd033976da70848690905ff33362c0496a3c0744302f4ed2f8758782-poli-150422220435-conversion-gate01/95/-1-1024.jpg",
-    "slides_embed_url": "//www.slideshare.net/slideshow/embed_code/key/pri7V96yi8c0EZ"
-  },
-  "data-levy": {
-    "title_cht": "開放資料例外收費原則",
-    "title_eng": "data-levy",
-    "prefix_cht": "數位公民環境：",
-    "prefix_eng": "civic",
-    "proposer_abbr_eng": "opendata_mis_ndc",
-    "proposer_abbr_cht": "國發會",
-    "slides_url": "http://www.slideshare.net/vtaiwan/ndc-20150413",
-    "links": [
-      {
-        "title": "政院會議：「政府資料分類及授權利用收費原則」草案討論",
-        "date": "July 23, 2015 14:00:00",
-        "links": [
-          {
-            "title": "共筆",
-            "link": "https://g0v.hackpad.com/2015-07-22-EY-Meeting-on-Open-Data-3RvGJjHbZ3Z"
-          },
-          {
-            "title": "授權條款",
-            "link": "http://data.gov.tw/license/1"
-          },
-          {
-            "title": "紀錄",
-            "link": "http://sayit.archive.tw/722-%E8%B3%87%E6%96%99%E5%88%86%E9%A1%9E%E5%8F%8A%E6%8E%88%E6%AC%8A%E5%88%A9%E7%94%A8%E6%94%B6%E8%B2%BB%E5%8E%9F%E5%89%87%E6%9C%83%E8%AD%B0"
-          }
-        ]
-      },
-      {
-        "title": "政院會議：「圖資議題」收費準則討論",
-        "date": "May 12, 2015 16:30:00",
-        "links": [
-          {
-            "title": "共筆",
-            "link": "https://hackpad.com/20150512--L4ijMKqXsnS"
-          }
-        ]
-      },
-      {
-        "title": "工作組聚會：「遠距教育及開放資料」建議規格彙整",
-        "date": "April 25, 2015 14:00:00",
-        "links": [
-          {
-            "title": "共筆",
-            "link": "https://g0v.hackpad.com/vTaiwan--zjiELIjtDUc"
-          },
-          {
-            "title": "重播",
-            "link": "https://livehouse.in/channel/vtaiwan/record/-Jnj9-4eG9dfh-D33RBK"
-          }
-        ]
-      },
-      {
-        "title": "諮詢會議：遠距教育及開放資料",
-        "date": "April 14, 2015 19:00:00",
-        "links": [
-          {
-            "title": "共筆",
-            "link": "https://hackpad.com/2015-04-14--JSea6WC3EdD"
-          },
-          {
-            "title": "重播",
-            "link": "https://www.youtube.com/watch?v=DPNPZcfaQgs"
-          },
-          {
-            "title": "PDF",
-            "link": "http://www.vtaiwan.org.tw/model.aspx?no=245"
-          }
-        ]
-      }
-    ],
-    "stages": [
-      {
-        "name": "定案",
-        "proposer_abbr_eng": "opendata_mis_ndc",
-        "proposer_abbr_cht": "國發會",
-        "gitbook_url": "https://g0v.github.io/data-levy-act1-gitbook",
-        "discourse_url": "https://talk.vtaiwan.tw",
-        "category": "act1",
-        "start_date": "November 24, 2015 00:00:00",
-        "end_date": "May 19, 2016 23:59:59",
-        "category_num": 105
-      },
-      {
-        "name": "草案 #1",
-        "proposer_abbr_eng": "opendata_mis_ndc",
-        "proposer_abbr_cht": "國發會",
-        "gitbook_url": "https://g0v.github.io/data-levy-ref1-gitbook",
-        "discourse_url": "https://talk.vtaiwan.tw",
-        "category": "ref1",
-        "start_date": "July 17, 2015 00:00:00",
-        "end_date": "August 17, 2015 23:59:59",
-        "category_num": 98
-      },
-      {
-        "name": "建議",
-        "gitbook_url": "https://g0v.github.io/data-levy-spec-gitbook",
-        "discourse_url": "https://talk.vtaiwan.tw",
-        "category": "spec",
-        "start_date": "May 1, 2015 00:00:00",
-        "end_date": "June 30, 2015 23:59:59",
-        "category_num": 68
-      },
-      {
-        "name": "討論",
-        "gitbook_url": "https://g0v.github.io/data-levy-gitbook",
-        "discourse_url": "https://talk.vtaiwan.tw",
-        "category": "init",
-        "start_date": "March 1, 2015 00:00:00",
-        "end_date": "April 24, 2015 23:59:59",
-        "category_num": 20
-      }
-    ],
-    "slides_image": "//image.slidesharecdn.com/1gc6fddqfgiibis1xlrm-signature-f2c8091777b0793ea0f8343a9e8377dc8ca3432ab9506718d912e2f009eb7dfa-poli-150413051101-conversion-gate01/95/-1-1024.jpg",
-    "slides_embed_url": "//www.slideshare.net/slideshow/embed_code/key/79j3ODJ0589aIA"
-  },
-  "consumer-protection": {
-    "title_cht": "零售業網路定型化契約",
-    "title_eng": "consumer-protection",
-    "prefix_cht": "數位公民環境：",
-    "prefix_eng": "civic",
-    "proposer_abbr_eng": "CPCEY",
-    "proposer_abbr_cht": "消費者保護處",
-    "slides_url": "http://www.slideshare.net/vtaiwan/10405142",
-    "links": [
-      {
-        "title": "諮詢會議：電傳勞動及網路交易契約",
-        "date": "May 14, 2015 19:00:00",
-        "links": [
-          {
-            "title": "共筆",
-            "link": "https://hackpad.com/2015-05-14--WaejnuSdnkS"
-          },
-          {
-            "title": "重播",
-            "link": "https://www.youtube.com/watch?v=i7WEtXVjKbo"
-          },
-          {
-            "title": "PDF",
-            "link": "http://www.vtaiwan.org.tw/model.aspx?no=247"
-          }
-        ]
-      }
-    ],
-    "stages": [
-      {
-        "name": "討論",
-        "gitbook_url": "https://g0v.github.io/consumer-protection-gitbook",
-        "discourse_url": "https://talk.vtaiwan.tw",
-        "category": "init",
-        "start_date": "March 1, 2015 00:00:00",
-        "end_date": "June 30, 2015 23:59:59",
-        "category_num": 21
-      }
-    ],
-    "slides_image": "//image.slidesharecdn.com/wgljft6qqnczczvv9sqt-signature-6eac15878da5678cad43919e8699b4e9f3f8beb3d6151232b764486a6935e630-poli-150507142236-lva1-app6892/95/-1-1024.jpg",
-    "slides_embed_url": "//www.slideshare.net/slideshow/embed_code/key/GapmPL1Vjqkbii"
-  },
-  "personal-data-protection": {
-    "title_cht": "個資利用與去識別化",
-    "title_eng": "personal-data-protection",
-    "prefix_cht": "數位公民環境：",
-    "prefix_eng": "civic",
-    "proposer_abbr_eng": "bsmi",
-    "proposer_abbr_cht": "經濟部標準檢驗局",
-    "slides_url": "http://www.slideshare.net/vtaiwan/ss-58562437",
-    "stages": [
-      {
-        "name": "草案 #1",
-        "gitbook_url": "https://g0v.github.io/personal-data-protection-ref1-gitbook",
-        "discourse_url": "https://talk.vtaiwan.tw",
-        "category": "ref1",
-        "start_date": "Feb 1, 2016 00:00:00",
-        "end_date": "May 19, 2016 23:59:59",
-        "category_num": 101
-      },
-      {
-        "name": "建議",
-        "gitbook_url": "https://g0v.github.io/personal-data-protection-spec-gitbook",
-        "discourse_url": "https://talk.vtaiwan.tw",
-        "category": "spec",
-        "start_date": "July 17, 2015 00:00:00",
-        "end_date": "August 17, 2015 23:59:59",
-        "category_num": 96
-      },
-      {
-        "name": "討論",
-        "gitbook_url": "https://g0v.github.io/personal-data-protection-gitbook",
-        "discourse_url": "https://talk.vtaiwan.tw",
-        "category": "init",
-        "start_date": "March 1, 2015 00:00:00",
-        "end_date": "July 10, 2015 23:59:59",
-        "category_num": 22
-      }
-    ],
-    "links": [
-      {
-        "title": "諮詢會議：個資去識別化",
-        "date": "February 23, 2016 19:00:00",
-        "links": [
-          {
-            "title": "共筆",
-            "link": "https://hackpad.com/2016-02-23--inDy8nGi4LE"
-          },
           {
             "title": "直播",
             "link": "https://livehouse.in/channel/vtaiwan"
-          }
-        ]
-      },
-      {
-        "title": "工作組聚會：「個資利用/去識別化」建議規格彙整",
-        "date": "July 11, 2015 13:00:00",
-        "links": [
+          },
           {
             "title": "共筆",
-            "link": "http://beta.hackfoldr.org/2015-07-11"
-          },
-          {
-            "title": "重播",
-            "link": "https://www.youtube.com/watch?v=_hMkL3o2Gyc"
-          }
-        ]
-      },
-      {
-        "title": "諮詢會議：遠距醫療照護及個資利用",
-        "date": "April 24, 2015 19:00:00",
-        "links": [
-          {
-            "title": "共筆",
-            "link": "https://hackpad.com/2015-04-24--Ar7eHtSVSHb"
-          },
-          {
-            "title": "重播",
-            "link": "https://www.youtube.com/watch?v=Uhpi0UftNlQ"
-          },
-          {
-            "title": "PDF",
-            "link": "http://www.vtaiwan.org.tw/model.aspx?no=246"
+            "link": "https://hackpad.com/JFTKX4Y50j0"
           }
         ]
       }
     ],
-    "slides_image": "//image.slidesharecdn.com/z-160222160443/95/-1-1024.jpg",
-    "slides_embed_url": "//www.slideshare.net/slideshow/embed_code/key/lJbXLNmCaMC7MA"
+    "stages": [
+      {
+        "name": "徵詢",
+        "category": "0",
+        "start_date": "Fri, 18 Mar 2016 00:00:00 GMT",
+        "end_date": "Tue, 05 Apr 2016 00:00:00 GMT",
+        "url": "https://talk.vtaiwan.tw/c/DC-telecommunication",
+        "email": "mailto:replies+telecommunication@vtaiwan.tw",
+        "gitbook_url": "https://g0v.github.io/DC-telecommunication-gitbook",
+        "discourse_url": "https://talk.vtaiwan.tw",
+        "category_num": 108
+      }
+    ],
+    "image": "DC-telecommunication.png",
+    "slides_url": "https://www.slideshare.net/vtaiwan/15-58638979",
+    "slides_image": "//image.slidesharecdn.com/vtaiwan-160224031625/95/-1-1024.jpg",
+    "slides_embed_url": "//www.slideshare.net/slideshow/embed_code/key/jYU4IoQzgPnpmb"
+  },
+  "DC-infrastructure": {
+    "title_eng": "DC-infrastructure",
+    "title_cht": "電信基礎設施與資源",
+    "prefix_cht": "",
+    "prefix_eng": "",
+    "proposer_abbr_cht": "",
+    "proposer_abbr_eng": "",
+    "links": [
+      {
+        "title": "諮詢會議",
+        "date": "Thu, 07 Apr 2016 18:52:00 GMT",
+        "links": [
+          {
+            "title": "直播",
+            "link": "https://livehouse.in/channel/vtaiwan"
+          },
+          {
+            "title": "共筆",
+            "link": "https://hackpad.com/JFTKX4Y50j0"
+          }
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "name": "徵詢",
+        "category": "0",
+        "start_date": "Fri, 18 Mar 2016 00:00:00 GMT",
+        "end_date": "Wed, 06 Apr 2016 00:00:00 GMT",
+        "url": "https://talk.vtaiwan.tw/c/DC-infrastructure",
+        "email": "mailto:replies+infrastructure@vtaiwan.tw",
+        "gitbook_url": "https://g0v.github.io/DC-infrastructure-gitbook",
+        "discourse_url": "https://talk.vtaiwan.tw",
+        "category_num": 109
+      }
+    ],
+    "image": "DC-infrastructure.png",
+    "slides_url": "https://www.slideshare.net/vtaiwan/25-58639114",
+    "slides_image": "//image.slidesharecdn.com/vtaiwan-160224032144/95/-1-1024.jpg",
+    "slides_embed_url": "//www.slideshare.net/slideshow/embed_code/key/Idvh0CvEuEUhPK"
+  },
+  "DC-industry": {
+    "title_eng": "DC-industry",
+    "title_cht": "電信事業",
+    "prefix_cht": "",
+    "prefix_eng": "",
+    "proposer_abbr_cht": "",
+    "proposer_abbr_eng": "",
+    "links": [
+      {
+        "title": "諮詢會議",
+        "date": "Thu, 07 Apr 2016 18:52:00 GMT",
+        "links": [
+          {
+            "title": "直播",
+            "link": "https://livehouse.in/channel/vtaiwan"
+          },
+          {
+            "title": "共筆",
+            "link": "https://hackpad.com/JFTKX4Y50j0"
+          }
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "name": "徵詢",
+        "category": "0",
+        "start_date": "Fri, 18 Mar 2016 00:00:00 GMT",
+        "end_date": "Wed, 06 Apr 2016 00:00:00 GMT",
+        "url": "https://talk.vtaiwan.tw/c/DC-industry",
+        "email": "mailto:replies+industry@vtaiwan.tw",
+        "gitbook_url": "https://g0v.github.io/DC-industry-gitbook",
+        "discourse_url": "https://talk.vtaiwan.tw",
+        "category_num": 110
+      }
+    ],
+    "image": "DC-industry.png",
+    "slides_url": "http://www.slideshare.net/vtaiwan/35-58639170",
+    "slides_image": "//image.slidesharecdn.com/vtaiwan-160224032353/95/-1-1024.jpg",
+    "slides_embed_url": "//www.slideshare.net/slideshow/embed_code/key/yOFsrHLi7V3wg9"
+  },
+  "DC-cable": {
+    "title_eng": "DC-cable",
+    "title_cht": "有線多頻道平臺服務",
+    "prefix_cht": "",
+    "prefix_eng": "",
+    "proposer_abbr_cht": "",
+    "proposer_abbr_eng": "",
+    "links": [
+      {
+        "title": "諮詢會議",
+        "date": "Mon, 11 Apr 2016 18:52:00 GMT",
+        "links": [
+          {
+            "title": "直播",
+            "link": "https://livehouse.in/channel/vtaiwan"
+          },
+          {
+            "title": "共筆",
+            "link": "https://hackpad.com/sJa4GnqxZVx"
+          }
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "name": "徵詢",
+        "category": "0",
+        "start_date": "Fri, 18 Mar 2016 00:00:00 GMT",
+        "end_date": "Sun, 10 Apr 2016 00:00:00 GMT",
+        "url": "https://talk.vtaiwan.tw/c/DC-cable",
+        "email": "mailto:replies+cable@vtaiwan.tw",
+        "gitbook_url": "https://g0v.github.io/DC-cable-gitbook",
+        "discourse_url": "https://talk.vtaiwan.tw",
+        "category_num": 111
+      }
+    ],
+    "image": "DC-cable.png",
+    "slides_url": "https://www.slideshare.net/vtaiwan/ss-58639214",
+    "slides_image": "//image.slidesharecdn.com/vtaiwan-160224032538/95/-1-1024.jpg",
+    "slides_embed_url": "//www.slideshare.net/slideshow/embed_code/key/1A5ymJcjZaOMsD"
+  },
+  "DC-wireless": {
+    "title_eng": "DC-wireless",
+    "title_cht": "無線廣播電視與頻道",
+    "prefix_cht": "",
+    "prefix_eng": "",
+    "proposer_abbr_cht": "",
+    "proposer_abbr_eng": "",
+    "links": [
+      {
+        "title": "諮詢會議",
+        "date": "Wed, 13 Apr 2016 18:52:00 GMT",
+        "links": [
+          {
+            "title": "直播",
+            "link": "https://livehouse.in/channel/vtaiwan"
+          },
+          {
+            "title": "共筆",
+            "link": "https://hackpad.com/VDItIiESba1"
+          }
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "name": "徵詢",
+        "category": "0",
+        "start_date": "Fri, 18 Mar 2016 00:00:00 GMT",
+        "end_date": "Tue, 12 Apr 2016 00:00:00 GMT",
+        "url": "https://talk.vtaiwan.tw/c/DC-wireless",
+        "email": "mailto:replies+wireless@vtaiwan.tw",
+        "gitbook_url": "https://g0v.github.io/DC-wireless-gitbook",
+        "discourse_url": "https://talk.vtaiwan.tw",
+        "category_num": 112
+      }
+    ],
+    "image": "DC-wireless.png",
+    "slides_url": "http://www.slideshare.net/vtaiwan/55-58639231",
+    "slides_image": "//image.slidesharecdn.com/vtaiwan-160224032619/95/-1-1024.jpg",
+    "slides_embed_url": "//www.slideshare.net/slideshow/embed_code/key/uz9AfY26nLhuzj"
   }
 }

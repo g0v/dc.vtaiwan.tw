@@ -23,7 +23,7 @@ class Proposal extends React.Component {
             ].concat(stages.map(({category, name})=>{ return {
                 path: `/${proposalName}/${category}/`,
                 label: name,
-                icon: category.replace(/\d*$/, '.png'),
+                icon: category.replace(/(\w)\d*$/, '$1')+'.png',
                 type: 'sub',
             } })))
         }

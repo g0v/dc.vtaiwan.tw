@@ -88,7 +88,7 @@ class Stage extends React.Component {
                 postCount += i.posts_count
             })
         }
-        let icon = require('../NavBar/images/' + data.category.replace(/\d*$/, '.png'))
+        let icon = require('../NavBar/images/' + data.category.replace(/(\w)\d*$/, '$1') + '.png')
         return (data.polis_id)?(
              <a className="Stage"
                 href={`https://pol.is/${data.polis_id}`}
