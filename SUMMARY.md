@@ -1,6 +1,9 @@
 # 匯流五法：線上徵詢
 
-* 議題
+* [圖示](favicon.png)
+* [簡報](http://www.slideshare.net/vtaiwan/ss-58638883/19)
+
+* 徵詢
     - [電子通訊傳播](topics/DC-telecommunication.md)
     - [電信基礎設施與資源](topics/DC-infrastructure.md)
     - [電信事業](topics/DC-industry.md)
