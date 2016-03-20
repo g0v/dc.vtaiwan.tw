@@ -6,6 +6,6 @@
     * [資料](https://g0v.github.io/DC-infrastructure-gitbook)
     * [論壇](https://talk.vtaiwan.tw/c/DC-infrastructure)
     * [郵箱](mailto:replies+infrastructure@vtaiwan.tw)
-* 諮詢會議 2016-04-07 19:00+08
+* 諮詢會議 2016-04-07 19:00 GMT+08
     * [直播](https://livehouse.in/channel/vtaiwan)
     * [共筆](https://hackpad.com/JFTKX4Y50j0)

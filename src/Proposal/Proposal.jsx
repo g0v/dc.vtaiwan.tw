@@ -32,6 +32,7 @@ class Proposal extends React.Component {
     }
     render() {
         const { data } = this.props
+        const title = data.title_eng || ''
 
         var timelineItems = []
         data.stages.map((item, key)=>{
@@ -101,7 +102,10 @@ class Proposal extends React.Component {
             <div className="Proposal">
                 <div className="Proposal-intro">
                     <div className="Proposal-title">{data.prefix_cht}{data.title_cht}</div>
-                    <div className="Proposal-proposer">@{data.proposer_abbr_cht}</div>
+                    <div className="Proposal-proposer"><a href={
+                            title.replace(/^DC-/, 'mailto:replies+') + '@vtaiwan.tw'
+                            }><i className="fa fa-envelope-o" /> 書面意見電郵信箱
+                    </a></div>
                 </div>
                 {cover}
                 <div className="Proposal-stages">{stages}</div>

@@ -4,12 +4,12 @@
     "title_cht": "電子通訊傳播",
     "prefix_cht": "",
     "prefix_eng": "",
-    "proposer_abbr_cht": "",
+    "proposer_abbr_cht": " 4/6",
     "proposer_abbr_eng": "",
     "links": [
       {
         "title": "諮詢會議",
-        "date": "Wed, 06 Apr 2016 18:52:00 GMT",
+        "date": "Wed, 06 Apr 2016 19:00:00 GMT+8",
         "links": [
           {
             "title": "直播",
@@ -26,8 +26,8 @@
       {
         "name": "徵詢",
         "category": "0",
-        "start_date": "Fri, 18 Mar 2016 00:00:00 GMT",
-        "end_date": "Tue, 05 Apr 2016 00:00:00 GMT",
+        "start_date": "Fri, 18 Mar 2016 00:00:00 GMT+8",
+        "end_date": "Tue, 05 Apr 2016 00:00:00 GMT+8",
         "url": "https://talk.vtaiwan.tw/c/DC-telecommunication",
         "email": "mailto:replies+telecommunication@vtaiwan.tw",
         "gitbook_url": "https://g0v.github.io/DC-telecommunication-gitbook",
@@ -45,12 +45,12 @@
     "title_cht": "電信基礎設施與資源",
     "prefix_cht": "",
     "prefix_eng": "",
-    "proposer_abbr_cht": "",
+    "proposer_abbr_cht": " 4/7",
     "proposer_abbr_eng": "",
     "links": [
       {
         "title": "諮詢會議",
-        "date": "Thu, 07 Apr 2016 18:52:00 GMT",
+        "date": "Thu, 07 Apr 2016 19:00:00 GMT+8",
         "links": [
           {
             "title": "直播",
@@ -67,8 +67,8 @@
       {
         "name": "徵詢",
         "category": "0",
-        "start_date": "Fri, 18 Mar 2016 00:00:00 GMT",
-        "end_date": "Wed, 06 Apr 2016 00:00:00 GMT",
+        "start_date": "Fri, 18 Mar 2016 00:00:00 GMT+8",
+        "end_date": "Wed, 06 Apr 2016 00:00:00 GMT+8",
         "url": "https://talk.vtaiwan.tw/c/DC-infrastructure",
         "email": "mailto:replies+infrastructure@vtaiwan.tw",
         "gitbook_url": "https://g0v.github.io/DC-infrastructure-gitbook",
@@ -86,12 +86,12 @@
     "title_cht": "電信事業",
     "prefix_cht": "",
     "prefix_eng": "",
-    "proposer_abbr_cht": "",
+    "proposer_abbr_cht": " 4/7",
     "proposer_abbr_eng": "",
     "links": [
       {
         "title": "諮詢會議",
-        "date": "Thu, 07 Apr 2016 18:52:00 GMT",
+        "date": "Thu, 07 Apr 2016 19:00:00 GMT+8",
         "links": [
           {
             "title": "直播",
@@ -108,8 +108,8 @@
       {
         "name": "徵詢",
         "category": "0",
-        "start_date": "Fri, 18 Mar 2016 00:00:00 GMT",
-        "end_date": "Wed, 06 Apr 2016 00:00:00 GMT",
+        "start_date": "Fri, 18 Mar 2016 00:00:00 GMT+8",
+        "end_date": "Wed, 06 Apr 2016 00:00:00 GMT+8",
         "url": "https://talk.vtaiwan.tw/c/DC-industry",
         "email": "mailto:replies+industry@vtaiwan.tw",
         "gitbook_url": "https://g0v.github.io/DC-industry-gitbook",
@@ -127,12 +127,12 @@
     "title_cht": "有線多頻道平臺服務",
     "prefix_cht": "",
     "prefix_eng": "",
-    "proposer_abbr_cht": "",
+    "proposer_abbr_cht": " 4/11",
     "proposer_abbr_eng": "",
     "links": [
       {
         "title": "諮詢會議",
-        "date": "Mon, 11 Apr 2016 18:52:00 GMT",
+        "date": "Mon, 11 Apr 2016 19:00:00 GMT+8",
         "links": [
           {
             "title": "直播",
@@ -149,8 +149,8 @@
       {
         "name": "徵詢",
         "category": "0",
-        "start_date": "Fri, 18 Mar 2016 00:00:00 GMT",
-        "end_date": "Sun, 10 Apr 2016 00:00:00 GMT",
+        "start_date": "Fri, 18 Mar 2016 00:00:00 GMT+8",
+        "end_date": "Sun, 10 Apr 2016 00:00:00 GMT+8",
         "url": "https://talk.vtaiwan.tw/c/DC-cable",
         "email": "mailto:replies+cable@vtaiwan.tw",
         "gitbook_url": "https://g0v.github.io/DC-cable-gitbook",
@@ -168,12 +168,12 @@
     "title_cht": "無線廣播電視與頻道",
     "prefix_cht": "",
     "prefix_eng": "",
-    "proposer_abbr_cht": "",
+    "proposer_abbr_cht": " 4/13",
     "proposer_abbr_eng": "",
     "links": [
       {
         "title": "諮詢會議",
-        "date": "Wed, 13 Apr 2016 18:52:00 GMT",
+        "date": "Wed, 13 Apr 2016 19:00:00 GMT+8",
         "links": [
           {
             "title": "直播",
@@ -190,8 +190,8 @@
       {
         "name": "徵詢",
         "category": "0",
-        "start_date": "Fri, 18 Mar 2016 00:00:00 GMT",
-        "end_date": "Tue, 12 Apr 2016 00:00:00 GMT",
+        "start_date": "Fri, 18 Mar 2016 00:00:00 GMT+8",
+        "end_date": "Tue, 12 Apr 2016 00:00:00 GMT+8",
         "url": "https://talk.vtaiwan.tw/c/DC-wireless",
         "email": "mailto:replies+wireless@vtaiwan.tw",
         "gitbook_url": "https://g0v.github.io/DC-wireless-gitbook",

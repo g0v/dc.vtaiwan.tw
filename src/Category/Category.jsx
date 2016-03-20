@@ -6,16 +6,34 @@ import './Category.css'
 import './lexicon.css'
 import {Link} from 'react-router'
 import classNames from 'classnames'
-import categoryData from './data/Category'
+import proposalData from '../Proposal/data/Proposals.json'
 import Posts from '../Posts/Posts.jsx'
+
+// Convert proposalData => categoryData
+var categoryData = {}
+Object.keys(proposalData).forEach((p) => {
+  const stages = proposalData[p].stages
+  var data = {}
+  stages.forEach(({name, gitbook_url, category, category_num}) => {
+    data[category] = {
+      category_cht: name,
+      category_num: category_num,
+      gitbook_url: gitbook_url,
+      proposal_cht: proposalData[p].title_cht,
+    }
+  })
+  categoryData[p] = data
+})
 
 class Issue extends React.Component {
     render() {
         var {title, content, post_count, clickHandler} = this.props;
+        var props = ((post_count)
+            ? { className: "issue_item", onClick: clickHandler }
+            : { className: "issue_readonly" });
 
         return (
-        <div className="issue_item"
-             onClick={clickHandler}>
+        <div {...props}>
             <div className="issue_item_title">
                 <span className="prompt"></span>
                 <span className="q_text" dangerouslySetInnerHTML={{ __html: title }} />
@@ -118,7 +136,6 @@ class Category extends React.Component {
     componentWillMount() {
         const {proposalName, category, postID} = this.props.params
         const metaData = categoryData[proposalName][category]
-        //console.log(metaData.discussions_id)
         this.setState({
             posts: metaData.discussions_id
         })
@@ -140,7 +157,7 @@ class Category extends React.Component {
         if (nextProps.gitbook.length) {
             const {topic_list} = nextProps.talk || {};
             const {proposal_cht, category_cht} = categoryData[proposalName][category]
-            const icon = category.replace(/\d+$/, '') + '.png'
+            const icon = category.replace(/(\w)\d+$/, '$1') + '.png'
             const base = `/${proposalName}/`
 
             this.props.setNavList([
@@ -297,7 +314,7 @@ class Category extends React.Component {
             "is-hidden": showDiscussion
         })
         const icon = require(`../NavBar/images/${
-            category.replace(/\d+$/, '')
+            category.replace(/(\w)\d+$/, '$1')
         }.png`)
 
 
@@ -400,7 +417,7 @@ export default Transmit.createContainer(Category, {
                     res.categories
                         .filter((c)=> c.parent_category_id === categoryNum)
                         .map(({id, parent_category_id})=>{
-                            var slug = (category === 'init') ? proposalName : `${proposalName}-${category}`;
+                            var slug = (category === 'init' || /^\d+$/.test(category)) ? proposalName : `${proposalName}-${category}`;
                             if(proposalName === 'crowdfunding' && category ==='act1') slug = 'crowdfunding-ref1';
                             const baseURL = (!parent_category_id)? `//talk.vtaiwan.tw/c/${id}-category.json`:`//talk.vtaiwan.tw/c/${slug}/${id}-category.json`;
                             getJSON(baseURL)

@@ -7,8 +7,6 @@ import AppBar from '../AppBar/AppBar.jsx'
 import NavBar from '../NavBar/NavBar.jsx'
 import {RouteHandler} from 'react-router'
 
-import categoryData from '../Category/data/Category'
-
 class App extends React.Component {
     static propTypes = { id: React.PropTypes.string }
     static contextTypes = { router: React.PropTypes.func }

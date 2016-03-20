@@ -13,6 +13,7 @@ class ProposalBoard extends React.Component {
             <div className="App-cover">
                 <div className="App-intro">
                     <p>{Site.description}</p>
+                    <iframe className="Proposal-iframe" src="//www.slideshare.net/slideshow/embed_code/key/AumgbcF1zgbz2x?startSlide=18" frameBorder="0" marginWidth="0" marginHeight="0" scrolling="no" allowFullScreen> </iframe>
                 </div>
             </div>
         <div className="ProposalBoard">

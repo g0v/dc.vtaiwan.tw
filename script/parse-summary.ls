@@ -60,11 +60,12 @@ function parse-topic (title, path, t-out)
       stage-out.discourse_url = stage-out.url - /\/c\/.*/
       t-out.stages.push stage-out
     else
-      link-out = { title: event, date: (new Date dates).toUTCString!, links: [] }
+      link-out = { title: event, date: (new Date dates.replace(/\+08/, 'CST')).toUTCString!, links: [] }
       for {title, path} in articles | path
         link-out.links.push {title, link: path}
       t-out.links.push link-out
   t-out.slides_url = delete t-out.slideshare
+  return t-out
 
 fs.write-file-sync "#cwd/src/SUMMARY.json", JSON.stringify(out,,2)
 fs.write-file-sync "#cwd/src/Proposal/data/Proposals.json", JSON.stringify(topics,,2)

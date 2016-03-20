@@ -905,6 +905,9 @@ a.nav_item_sidebar--sub:hover {
 /* ------------------------------------------------------------ */
 /* issue 話題
 /* ------------------------------------------------------------ */
+.issue_readonly .Issue-titleIcon {
+  display: none;
+}
 .issue_item {
   margin-bottom: 4px;
   background: white;
