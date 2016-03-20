@@ -2,10 +2,10 @@
 import React from 'react'
 import Transmit from 'react-transmit'
 import {Link} from 'react-router'
+import {Site} from '../SUMMARY.json'
 import './AppBar.css'
 
 const imgURL = require("./images/AppBar-logo.png");
-const siteName = '匯流五法：線上諮詢';
 
 class AppBar extends React.Component {
 
@@ -27,7 +27,7 @@ class AppBar extends React.Component {
                     <div className="AppBar-siteLogo">
                         <img className="AppBar-siteLogoImg"
                              src={imgURL}/>
-                        <div className="AppBar-siteLogoText">{siteName}</div>
+                        <div className="AppBar-siteLogoText">{Site.title}</div>
                     </div>
                 </Link>
             </div>

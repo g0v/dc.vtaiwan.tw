@@ -5,7 +5,7 @@ module.exports = {
     },
     "cyberbullying":
     {
-        "init" :
+        "1" :
         {
             "gitbook_url": "https://g0v.github.io/cyberbullying-gitbook",
             "category_num": 92,

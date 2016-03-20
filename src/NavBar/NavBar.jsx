@@ -4,7 +4,6 @@ import Transmit from 'react-transmit'
 import {Link} from 'react-router'
 import classNames from 'classnames'
 import './NavBar.css'
-import {NavList} from '../App/data/Nav'
 
 class NavBar extends React.Component {
     _onListItemClicked(){
@@ -34,12 +33,12 @@ class NavBar extends React.Component {
         document.head.appendChild(meta);
     }
     setOGImage(section) {
-        const sectionInfo = NavList.filter(({icon, path}) => icon && path === `/${section}/`)[0] || {};
-        if (!sectionInfo.icon) {
+        // const sectionInfo = NavList.filter(({icon, path}) => icon && path === `/${section}/`)[0] || {};
+        // if (!sectionInfo.icon) {
             this.setOGImageMeta(require('../AppBar/images/AppBar-logo.png'));
-        } else {
-            this.setOGImageMeta(require(`./images/${sectionInfo.icon}`));
-        }
+        // } else {
+        //     this.setOGImageMeta(require(`./images/${sectionInfo.icon}`));
+        // }
     }
     render() {
         const section = this.props.activePath.split('/')[1] || undefined;
