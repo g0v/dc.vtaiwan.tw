@@ -1,18 +1,18 @@
 {
-  "name": "react.vtaiwan.tw",
+  "name": "dc.vtaiwan.tw",
   "version": "0.0.0",
-  "description": "行政院法規線上諮詢系統 界面 2.0",
+  "description": "匯流五法：線上徵詢",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "build": "npm run static",
     "update": "./node_modules/.bin/babel-node script/update-proposal-slides.js; ./node_modules/.bin/babel-node script/update-category-ids.js",
-    "static": "rm -rf build/* ; env NODE_ENV=production webpack -content-base build/ ; ./node_modules/.bin/babel-node script/gen-static.js /; echo dc.vtaiwan.tw > build/CNAME",
+    "static": "rm -rf build/* ; env NODE_ENV=production webpack -content-base build/ ; ./node_modules/.bin/babel-node script/gen-static.js /; cp -Rf static/* build/",
     "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/g0v/react.vtaiwan.tw.git"
+    "url": "https://github.com/g0v/dc.vtaiwan.tw.git"
   },
   "keywords": [
     "vtaiwan",
@@ -21,9 +21,9 @@
   "author": "vtaiwan.tw",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/g0v/react.vtaiwan.tw/issues"
+    "url": "https://github.com/g0v/dc.vtaiwan.tw/issues"
   },
-  "homepage": "https://github.com/g0v/react.vtaiwan.tw",
+  "homepage": "https://github.com/g0v/dc.vtaiwan.tw",
   "devDependencies": {
     "autoprefixer": "^6.0.3",
     "caching-fetch": "^1.0.8",
