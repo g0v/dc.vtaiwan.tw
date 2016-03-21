@@ -168,12 +168,12 @@
     "title_cht": "無線廣播電視與頻道",
     "prefix_cht": "",
     "prefix_eng": "",
-    "proposer_abbr_cht": " 4/13",
+    "proposer_abbr_cht": " 4/12",
     "proposer_abbr_eng": "",
     "links": [
       {
         "title": "諮詢會議",
-        "date": "Wed, 13 Apr 2016 19:00:00 GMT+8",
+        "date": "Wed, 12 Apr 2016 19:00:00 GMT+8",
         "links": [
           {
             "title": "直播",
@@ -191,7 +191,7 @@
         "name": "徵詢",
         "category": "0",
         "start_date": "Fri, 18 Mar 2016 00:00:00 GMT+8",
-        "end_date": "Tue, 12 Apr 2016 00:00:00 GMT+8",
+        "end_date": "Tue, 11 Apr 2016 00:00:00 GMT+8",
         "url": "https://talk.vtaiwan.tw/c/DC-wireless",
         "email": "mailto:replies+wireless@vtaiwan.tw",
         "gitbook_url": "https://g0v.github.io/DC-wireless-gitbook",
