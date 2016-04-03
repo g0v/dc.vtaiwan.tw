@@ -7,7 +7,7 @@
     "start": "node server.js",
     "build": "npm run static",
     "update": "./node_modules/.bin/lsc script/parse-summary.ls; ./node_modules/.bin/babel-node script/update-proposal-slides.js; ./node_modules/.bin/babel-node script/update-category-ids.js",
-    "static": "rm -rf build/* ; env NODE_ENV=production webpack -content-base build/ ; ./node_modules/.bin/babel-node script/gen-static.js /; cp -Rf static/* build/",
+    "static": "rm -rf build/* ; env NODE_ENV=production webpack -content-base build/ ; ./node_modules/.bin/babel-node script/gen-static.js /; cp -Rf static/* build/; grep -lr localhost:3000 build | xargs perl -pi -e 's!<iframe src=.http://localhost:3000.*iframe>!!g'",
     "deploy": "gh-pages -d build"
   },
   "repository": {
