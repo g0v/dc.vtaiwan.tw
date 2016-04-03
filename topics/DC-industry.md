@@ -8,4 +8,4 @@
     * [郵箱](mailto:replies+industry@vtaiwan.tw)
 * 諮詢會議 2016-04-07 19:00+08
     * [直播](https://livehouse.in/channel/vtaiwan)
-    * [共筆](https://hackpad.com/JFTKX4Y50j0)
+    * [共筆](https://hackpad.com/BvEvIZK7WQB)
